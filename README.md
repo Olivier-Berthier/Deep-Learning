@@ -4,10 +4,10 @@ Nathalie Portman
 Keira Knightley
 Autres actrices
 
-Objectif : 
+Objectif :   
 Construire un pipeline de classification d’images pour reconnaître à partir d’une photo à quelle catégorie d’actrice elle appartient.
 
-Données : 
+Données :  
 Les jeux de données sont constitués de photos réparties en trois classes principales :
 
   Jeu d'entraînement : 143 photos/catégorie
@@ -24,8 +24,8 @@ Utilisation de YOLOv8-Face pour détecter tous les visages présents sur les ima
 Automatisation du choix du « meilleur » visage pour chaque photo selon trois critères : score de détection, surface occupée, et proximité du centre.
 
 Régularisation L2 (weight decay) et dropout pour limiter l’overfitting et améliorer la généralisation.
-Résultats
+Résultats :  
 La meilleure performance est obtenue avec ConvNeXt, entraîné sur les visages détectés.
 
-Conclusion
+Conclusion : 
 Ce projet démontre la capacité à développer une chaîne complète de traitement d’images basée sur la détection et la classification, à optimiser les hyperparamètres pour obtenir un modèle robuste et performant, véritablement utile pour des cas concrets de reconnaissance faciale.

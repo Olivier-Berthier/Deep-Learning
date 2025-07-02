@@ -1,8 +1,4 @@
-Ce projet, réalisé dans le cadre du cours de Deep Learning de master 2 (Executive Master Statistique & Intelligence artificielle) à l’Université Paris Dauphine, a pour objectif de différencier automatiquement les visages de trois catégories d’actrices sur des photos téléchargées sur internet :
-
-Nathalie Portman
-Keira Knightley
-Autres actrices
+Ce projet, réalisé dans le cadre du cours de Deep Learning de master 2 (Executive Master Statistique & Intelligence artificielle) à l’Université Paris Dauphine, a pour objectif de différencier automatiquement les visages de trois catégories d’actrices sur des photos founies pour l'exercice : 
 
 Objectif :   
 Construire un pipeline de classification d’images pour reconnaître à partir d’une photo à quelle catégorie d’actrice elle appartient.
